@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import {puppyList} from './data.js'
-
+import './path-to-css.css'
 
 
 function App() {
